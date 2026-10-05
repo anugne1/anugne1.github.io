@@ -13,11 +13,11 @@
       <link>https://anugne1.github.io/posts/antras-puslapis/</link>
       <pubDate>Mon, 05 Oct 2026 23:44:36 +0300</pubDate>
       <guid>https://anugne1.github.io/posts/antras-puslapis/</guid>
-      <description>&lt;p&gt;# Mano antras puslapis&lt;/p&gt;
+      <description>&lt;h1 id=&#34;mano-antras-puslapis&#34;&gt;Mano antras puslapis&lt;/h1&gt;
 &lt;p&gt;Tai yra mano antrasis Hugo tinklalapio puslapis.&lt;/p&gt;
-&lt;p&gt;## Paveiksliukas&lt;/p&gt;
-&lt;p&gt;![GitHub logotipas](&lt;a href=&#34;https://github.githubassets.com/images/modules/logos&#34;&gt;https://github.githubassets.com/images/modules/logos&lt;/a&gt;_page/GitHub-Mark.png)&lt;/p&gt;
-&lt;p&gt;## Kodo pavyzdys&lt;/p&gt;
+&lt;h2 id=&#34;paveiksliukas&#34;&gt;Paveiksliukas&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;GitHub logotipas&#34; loading=&#34;lazy&#34; src=&#34;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;kodo-pavyzdys&#34;&gt;Kodo pavyzdys&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
